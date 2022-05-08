@@ -1,0 +1,455 @@
+{
+  "headers": [
+    {
+      "align": "right",
+      "value": "ID"
+    },
+    {
+      "value": "Business"
+    },
+    {
+      "value": "Primary Contact"
+    },
+    {
+      "value": "Website"
+    },
+    {
+      "align": "center",
+      "value": "View Site"
+    }
+  ],
+  "rows": [
+    {
+      "childTable": {
+        "headers": [
+          {
+            "value": "Name"
+          },
+          {
+            "value": "Priority"
+          },
+          {
+            "value": "Status"
+          },
+          {
+            "align": "center",
+            "value": "View Project"
+          }
+        ],
+        "rows": [
+          {
+            "data": [
+              {
+                "value": "Anvil"
+              },
+              {
+                "class": "clickable",
+                "script": "myTestScript",
+                "value": "Low"
+              },
+              {
+                "value": "In Progress"
+              },
+              {
+                "class": "cell-button ",
+                "script": "myTestScript",
+                "value": "Launch"
+              }
+            ]
+          },
+          {
+            "data": [
+              {
+                "value": "Hammer"
+              },
+              {
+                "class": "clickable",
+                "script": "myTestScript",
+                "value": "Low"
+              },
+              {
+                "value": "Complete"
+              },
+              {
+                "class": "cell-button ",
+                "script": "myTestScript",
+                "value": "Launch"
+              }
+            ]
+          },
+          {
+            "data": [
+              {
+                "value": "Portable Hole"
+              },
+              {
+                "class": "clickable",
+                "script": "myTestScript",
+                "value": "Low"
+              },
+              {
+                "value": "Complete"
+              },
+              {
+                "class": "cell-button ",
+                "script": "myTestScript",
+                "value": "Launch"
+              }
+            ]
+          }
+        ]
+      },
+      "data": [
+        {
+          "parameter": "4",
+          "script": "myTestScript",
+          "value": "4"
+        },
+        {
+          "value": "ACME"
+        },
+        {
+          "value": "Mr. Bunny"
+        },
+        {
+          "value": "Acme.com"
+        },
+        {
+          "class": "cell-button",
+          "parameter": "Acme.com",
+          "script": "myTestScript",
+          "value": "Open Page"
+        }
+      ]
+    },
+    {
+      "childTable": {
+        "headers": [
+          {
+            "value": "Name"
+          },
+          {
+            "value": "Priority"
+          },
+          {
+            "value": "Status"
+          },
+          {
+            "align": "center",
+            "value": "View Project"
+          }
+        ],
+        "rows": [
+          {
+            "data": [
+              {
+                "value": "Suit Cooling"
+              },
+              {
+                "class": "clickable",
+                "script": "myTestScript",
+                "value": "High"
+              },
+              {
+                "value": "In Progress"
+              },
+              {
+                "class": "cell-button ",
+                "script": "myTestScript",
+                "value": "Launch"
+              }
+            ]
+          },
+          {
+            "data": [
+              {
+                "value": "High-Tensile Webbing"
+              },
+              {
+                "class": "clickable",
+                "script": "myTestScript",
+                "value": "Medium"
+              },
+              {
+                "value": "New"
+              },
+              {
+                "class": "cell-button ",
+                "script": "myTestScript",
+                "value": "Launch"
+              }
+            ]
+          },
+          {
+            "data": [
+              {
+                "value": "Extra web fluid capacity"
+              },
+              {
+                "class": "clickable",
+                "script": "myTestScript",
+                "value": "Low"
+              },
+              {
+                "value": "Complete"
+              },
+              {
+                "class": "cell-button ",
+                "script": "myTestScript",
+                "value": "Launch"
+              }
+            ]
+          }
+        ]
+      },
+      "data": [
+        {
+          "parameter": "3",
+          "script": "myTestScript",
+          "value": "3"
+        },
+        {
+          "value": "Parker Photography"
+        },
+        {
+          "value": "Peter Parker"
+        },
+        {
+          "value": "parkerphotography.com"
+        },
+        {
+          "class": "cell-button",
+          "parameter": "parkerphotography.com",
+          "script": "myTestScript",
+          "value": "Open Page"
+        }
+      ]
+    },
+    {
+      "childTable": {
+        "headers": [
+          {
+            "value": "Name"
+          },
+          {
+            "value": "Priority"
+          },
+          {
+            "value": "Status"
+          },
+          {
+            "align": "center",
+            "value": "View Project"
+          }
+        ],
+        "rows": [
+          {
+            "data": [
+              {
+                "value": "Cool New Web App"
+              },
+              {
+                "class": "clickable",
+                "script": "myTestScript",
+                "value": "High"
+              },
+              {
+                "value": "In Progress"
+              },
+              {
+                "class": "cell-button ",
+                "script": "myTestScript",
+                "value": "Launch"
+              }
+            ]
+          },
+          {
+            "data": [
+              {
+                "value": "Great FileMaker Solution"
+              },
+              {
+                "class": "clickable",
+                "script": "myTestScript",
+                "value": "Medium"
+              },
+              {
+                "value": "Complete"
+              },
+              {
+                "class": "cell-button ",
+                "script": "myTestScript",
+                "value": "Launch"
+              }
+            ]
+          },
+          {
+            "data": [
+              {
+                "value": "Secret Project for Batman"
+              },
+              {
+                "class": "clickable",
+                "script": "myTestScript",
+                "value": "Medium"
+              },
+              {
+                "value": "New"
+              },
+              {
+                "class": "cell-button ",
+                "script": "myTestScript",
+                "value": "Launch"
+              }
+            ]
+          }
+        ]
+      },
+      "data": [
+        {
+          "parameter": "2",
+          "script": "myTestScript",
+          "value": "2"
+        },
+        {
+          "value": "Blue Feather"
+        },
+        {
+          "value": "David Nahodyl"
+        },
+        {
+          "value": "bluefeathergroup.com"
+        },
+        {
+          "class": "cell-button",
+          "parameter": "bluefeathergroup.com",
+          "script": "myTestScript",
+          "value": "Open Page"
+        }
+      ]
+    },
+    {
+      "childTable": {
+        "headers": [
+          {
+            "value": "Name"
+          },
+          {
+            "value": "Priority"
+          },
+          {
+            "value": "Status"
+          },
+          {
+            "align": "center",
+            "value": "View Project"
+          }
+        ],
+        "rows": [
+          {
+            "data": [
+              {
+                "value": "Batmobile"
+              },
+              {
+                "class": "clickable",
+                "script": "myTestScript",
+                "value": "High"
+              },
+              {
+                "value": "Complete"
+              },
+              {
+                "class": "cell-button ",
+                "script": "myTestScript",
+                "value": "Launch"
+              }
+            ]
+          },
+          {
+            "data": [
+              {
+                "value": "New Grappling Hook"
+              },
+              {
+                "class": "clickable",
+                "script": "myTestScript",
+                "value": "High"
+              },
+              {
+                "value": "In Progress"
+              },
+              {
+                "class": "cell-button ",
+                "script": "myTestScript",
+                "value": "Launch"
+              }
+            ]
+          },
+          {
+            "data": [
+              {
+                "value": "Cowl"
+              },
+              {
+                "class": "clickable",
+                "script": "myTestScript",
+                "value": "High"
+              },
+              {
+                "value": "In Progress"
+              },
+              {
+                "class": "cell-button ",
+                "script": "myTestScript",
+                "value": "Launch"
+              }
+            ]
+          },
+          {
+            "data": [
+              {
+                "value": "Batarang"
+              },
+              {
+                "class": "clickable",
+                "script": "myTestScript",
+                "value": "Low"
+              },
+              {
+                "value": "Complete"
+              },
+              {
+                "class": "cell-button ",
+                "script": "myTestScript",
+                "value": "Launch"
+              }
+            ]
+          }
+        ]
+      },
+      "data": [
+        {
+          "parameter": "1",
+          "script": "myTestScript",
+          "value": "1"
+        },
+        {
+          "value": "Wayne Enterprises"
+        },
+        {
+          "value": "Bruce Wayne"
+        },
+        {
+          "value": "wayne.com"
+        },
+        {
+          "class": "cell-button",
+          "parameter": "wayne.com",
+          "script": "myTestScript",
+          "value": "Open Page"
+        }
+      ]
+    }
+  ]
+}

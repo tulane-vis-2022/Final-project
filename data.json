@@ -1,0 +1,6 @@
+fetch('3helix/25.png')
+  .then(response => response.text())
+  .then(data => {
+      // Do something with your data
+      console.log(data);
+  });
